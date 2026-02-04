@@ -2,6 +2,7 @@
 layout: post
 title: "My First English Blog"
 date: 2026-02-04
+author: Leo
 ---
 
 Recently I've been interviewed by Google, during which I found myself hard to express myself and my knowledge of computer science. 
